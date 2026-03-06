@@ -20,11 +20,9 @@
 - Machine Learning
 
 📫 Connect With Me:
-- LinkedIn
+- LinkedIn 
 - Portfolio
-## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulp7290&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp7290&layout=compact&theme=tokyonight)
 
