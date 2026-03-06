@@ -22,3 +22,15 @@
 📫 Connect With Me:
 - LinkedIn
 - Portfolio
+## 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulp7290&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulp7290&layout=compact&theme=tokyonight)
+
+## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
